@@ -1,4 +1,3 @@
-layout_spectrum: 0.2962985662743449
 typography_spectrum: 0.3918024494778365
 color:
   brandStrength: 0.2341945304069668
@@ -11,4 +10,6 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
+layout_spectrum: 0.2962985662743449
 name: Tygrid
+title: Simple . Fun . Exciting
