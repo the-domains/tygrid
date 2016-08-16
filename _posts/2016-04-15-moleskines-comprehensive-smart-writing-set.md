@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-16T02:46:26.914Z'
+datePublished: '2016-08-16T02:52:26.608Z'
 sourcePath: _posts/2016-04-15-moleskines-comprehensive-smart-writing-set.md
 inFeed: true
 isBasedOnUrl: 'http://www.coolhunting.com/tech/moleskine-smart-writing-set'
@@ -17,7 +17,7 @@ keywords:
   - pages
 related: []
 author: []
-dateModified: '2016-08-16T02:46:26.017Z'
+dateModified: '2016-08-16T02:52:26.502Z'
 title: Moleskine's Comprehensive Smart Writing Set
 app_links: []
 publisher:
