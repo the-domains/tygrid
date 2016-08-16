@@ -1,0 +1,14 @@
+layout_spectrum: 0.2962985662743449
+typography_spectrum: 0.3918024494778365
+color:
+  brandStrength: 0.2341945304069668
+  lightness: 0.58765096985735
+  saturation: 0.33054391178302467
+  rhythmicContrast: 0.723748208489269
+  brandColors:
+    - '#1C1D21'
+    - '#31353D'
+    - '#445878'
+    - '#92CDCF'
+    - '#EEEFF7'
+name: Tygrid
